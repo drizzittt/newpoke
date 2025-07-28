@@ -4798,20 +4798,20 @@ Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
+Lileep
 Level: 12
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
+- Absorb
+- Ingrain
+- Confuse Ray
 - Rock Tomb
 
-Geodude
-Level: 12
+Minior
+Level: 11
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
-- Defense Curl
-- Rock Throw
+- Aerial Ace
+- Rollout
 - Rock Tomb
 
 Nosepass @ Oran Berry
@@ -4832,20 +4832,20 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Machop
+Croagunk
 Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
+- Poison Sting
 - Low Kick
-- Seismic Toss
+- Sucker Punch
 - Bulk Up
 
 Meditite
 Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
+- Karate Chop
 - Light Screen
-- Reflect
+- Confusion
 - Bulk Up
 
 Makuhita @ Sitrus Berry
@@ -4865,6 +4865,14 @@ Music: Male
 Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
+
+Tynamo
+Level: 20
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunder Wave
+- Spark
+- Charge Beam
+- Knock Off
 
 Voltorb
 Level: 20
