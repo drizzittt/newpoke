@@ -12456,6 +12456,9 @@ static const u16 sGrovyleTeachableLearnset[] = {
     MOVE_THIEF,
     MOVE_THUNDER_PUNCH,
     MOVE_TOXIC,
+    MOVE_THUNDER,
+    MOVE_THUNDER_WAVE,
+    MOVE_SHOCK_WAVE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12503,6 +12506,9 @@ static const u16 sSceptileTeachableLearnset[] = {
     MOVE_THIEF,
     MOVE_THUNDER_PUNCH,
     MOVE_TOXIC,
+    MOVE_THUNDER,
+    MOVE_THUNDER_WAVE,
+    MOVE_SHOCK_WAVE,
     MOVE_UNAVAILABLE,
 };
 #endif //P_FAMILY_TREECKO
