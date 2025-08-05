@@ -10151,13 +10151,13 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
 
     [SPECIES_CHIMECHO] =
     {
-        .baseHP        = P_UPDATED_STATS >= GEN_7 ? 75 : 65,
+        .baseHP        = 70, // P_UPDATED_STATS >= GEN_7 ? 75 : 65,
         .baseAttack    = 50,
-        .baseDefense   = P_UPDATED_STATS >= GEN_7 ? 80 : 70,
+        .baseDefense   = 75, // P_UPDATED_STATS >= GEN_7 ? 80 : 70,
         .baseSpeed     = 65,
         .baseSpAttack  = 95,
-        .baseSpDefense = P_UPDATED_STATS >= GEN_7 ? 90 : 80,
-        .types = MON_TYPES(TYPE_PSYCHIC),
+        .baseSpDefense = 85, // P_UPDATED_STATS >= GEN_7 ? 90 : 80,
+        .types = MON_TYPES(TYPE_PSYCHIC, TYPE_GHOST),
         .catchRate = 45,
     #if P_UPDATED_EXP_YIELDS >= GEN_7
         .expYield = 159,

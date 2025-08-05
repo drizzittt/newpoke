@@ -14,7 +14,38 @@ RustboroCity_DevonCorp_2F_EventScript_TalkToPokemonScientist::
 	lock
 	faceplayer
 	call_if_eq VAR_FOSSIL_RESURRECTION_STATE, 1, RustboroCity_DevonCorp_2F_EventScript_SetFossilReady
-	msgbox RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon, MSGBOX_DEFAULT
+	goto_if_eq VAR_CHARCADET_ARMOR_STATE, 0,  RustboroCity_DevonCorp_2F_EventScript_NotDoneResearchingYet
+	goto_if_eq VAR_CHARCADET_ARMOR_STATE, 1,  RustboroCity_DevonCorp_2F_EventScript_ResearchingDone
+	goto_if_eq VAR_CHARCADET_ARMOR_STATE, 2,  RustboroCity_DevonCorp_2F_EventScript_HowIsCharcadet
+	release
+	end
+
+RustboroCity_DevonCorp_2F_EventScript_NotDoneResearchingYet::
+	msgbox RustboroCity_DevonCorp_2F_Text_CharcadetResearchStart, MSGBOX_DEFAULT
+	release
+	end
+
+RustboroCity_DevonCorp_2F_EventScript_ResearchingDone::
+	msgbox RustboroCity_DevonCorp_2F_Text_CharcadetResearchDone, MSGBOX_DEFAULT
+	bufferitemname STR_VAR_3, ITEM_MALICIOUS_ARMOR
+	playfanfare MUS_OBTAIN_ITEM
+	message RustboroCity_DevonCorp_2F_Text_ArmorReceived
+	waitmessage
+	giveitem ITEM_MALICIOUS_ARMOR
+	waitfanfare
+	bufferitemname STR_VAR_3, ITEM_AUSPICIOUS_ARMOR
+	playfanfare MUS_OBTAIN_ITEM
+	message RustboroCity_DevonCorp_2F_Text_ArmorReceived
+	giveitem ITEM_AUSPICIOUS_ARMOR
+	waitmessage
+	waitfanfare
+	setvar VAR_CHARCADET_ARMOR_STATE, 2
+	setflag FLAG_RECIEVED_ARMORS
+	release
+	end
+
+RustboroCity_DevonCorp_2F_EventScript_HowIsCharcadet::
+	msgbox RustboroCity_DevonCorp_2F_Text_HowIsCharcadet, MSGBOX_DEFAULT
 	release
 	end
 
@@ -268,10 +299,33 @@ RustboroCity_DevonCorp_2F_EventScript_WorkOnNext::
 	release
 	end
 
-RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon:
-	.string "We're developing a device for talking\n"
-	.string "with POKéMON.\p"
-	.string "But we haven't had much success…$"
+RustboroCity_DevonCorp_2F_Text_CharcadetResearchStart:
+	.string "I've been researching the ancient\n"
+	.string "civilization that once stood where \p"
+	.string "Oldale is now. I think they lived\n"
+	.string "closely with the local Charcadet\p"
+	.string "and that these armor pieces are\n"
+	.string "somehow related...I need to do more\p"
+	.string "research on them still. I might\n"
+	.string "have something after you get\p"
+	.string "your fourth gym badge...$"
+
+RustboroCity_DevonCorp_2F_Text_CharcadetResearchDone:
+	.string "It turns out both sets of armor will\n"
+	.string "will make a Charcadet evolve if\p"
+	.string "exposed to it. The evolution depends\n"
+	.string "on the armor. There's what I've\p"
+	.string "dubbed the Auspiciou Armor and\n"
+	.string "the Malicious Armor.I'm not sure\p"
+	.string "what the forms will be.\n"
+	.string "Would you take these and try it?$"
+
+RustboroCity_DevonCorp_2F_Text_ArmorReceived:
+	.string "{PLAYER} received {STR_VAR_3} from\n"
+	.string "the Devon Researcher.$"
+
+RustboroCity_DevonCorp_2F_Text_HowIsCharcadet:
+	.string "How is Charcadet doing?$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
 	.string "I'm developing new kinds of\n"

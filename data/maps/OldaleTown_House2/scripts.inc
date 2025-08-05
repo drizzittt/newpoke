@@ -6,15 +6,16 @@ OldaleTown_House2_EventScript_Woman::
 	end
 
 OldaleTown_House2_EventScript_Man::
-	msgbox OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon, MSGBOX_NPC
+	msgbox OldaleTown_House2_Text_RuinsSomewhere, MSGBOX_NPC
 	end
 
 OldaleTown_House2_Text_PokemonLevelUp:
 	.string "When POKéMON battle, they eventually\n"
 	.string "level up and become stronger.$"
 
-OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon:
-	.string "If the POKéMON with you become\n"
-	.string "stronger, you'll be able to go farther\l"
-	.string "away from here.$"
+OldaleTown_House2_Text_RuinsSomewhere:
+	.string "I know there was an ancient\n"
+	.string "civilization here once, whatever that\p"
+	.string "silly girl outside says. Why else would\n"
+	.string "Devon scientist have been digging here?$"
 

@@ -108,6 +108,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	lockall
 	bufferleadmonspeciesname STR_VAR_1
 	message LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon
+	setvar VAR_CHARCADET_ARMOR_STATE, 0
 	waitmessage
 	playfanfare MUS_OBTAIN_ITEM
 	waitfanfare
@@ -525,7 +526,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GivePokedex::
 
 LittlerootTown_ProfessorBirchsLab_EventScript_MayGivePokeBalls::
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese, MSGBOX_DEFAULT
-	giveitem ITEM_POKE_BALL, 5
+	giveitem ITEM_POKE_BALL, 10
 	call_if_eq VAR_RESULT, FALSE, LittlerootTown_ProfessorBirchsLab_EventScript_MayNoRoomForPokeBalls
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls, MSGBOX_DEFAULT
 	setvar VAR_RESULT, 0

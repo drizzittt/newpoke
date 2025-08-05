@@ -30,7 +30,7 @@ OldaleTown_EventScript_TownSign::
 	end
 
 OldaleTown_EventScript_Girl::
-	msgbox OldaleTown_Text_SavingMyProgress, MSGBOX_NPC
+	msgbox OldaleTown_Text_WhyGhostsHere, MSGBOX_NPC
 	end
 
 OldaleTown_EventScript_MartEmployee::
@@ -339,9 +339,12 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	walk_left
 	step_end
 
-OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+OldaleTown_Text_WhyGhostsHere:
+	.string "The man in this house is obsesed with\n"
+	.string "the ghost Pokémon in this town. He\p"
+	.string "thinks there's some reason for it.\n"
+	.string "It's called OLDale, of course old\p"
+	.string "ghosts are here, silly old man.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Hi!\n"
