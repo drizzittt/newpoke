@@ -2196,7 +2196,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_ZUBAT"
+                "species": "SPECIES_NOIBAT"
               },
               {
                 "min_level": 40,
@@ -2206,7 +2206,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_GOLBAT"
+                "species": "SPECIES_PAWNIARD"
               },
               {
                 "min_level": 42,
@@ -2221,7 +2221,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_KLANG"
               },
               {
                 "min_level": 40,
@@ -2231,7 +2231,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_WHISMUR"
+                "species": "SPECIES_KLANG"
               }
             ]
           }
@@ -2300,7 +2300,7 @@
               {
                 "min_level": 29,
                 "max_level": 29,
-                "species": "SPECIES_WOBBUFFET"
+                "species": "SPECIES_FARIGIRAF"
               }
             ]
           }
@@ -6938,7 +6938,7 @@
               {
                 "min_level": 27,
                 "max_level": 27,
-                "species": "SPECIES_ODDISH"
+                "species": "SPECIES_COMBEE"
               },
               {
                 "min_level": 25,
@@ -6978,7 +6978,7 @@
               {
                 "min_level": 27,
                 "max_level": 27,
-                "species": "SPECIES_WOBBUFFET"
+                "species": "SPECIES_VESPIQUEEN"
               },
               {
                 "min_level": 27,
@@ -6988,7 +6988,7 @@
               {
                 "min_level": 29,
                 "max_level": 29,
-                "species": "SPECIES_WOBBUFFET"
+                "species": "SPECIES_VESPIQUEEN"
               }
             ]
           },
@@ -7211,12 +7211,12 @@
               {
                 "min_level": 29,
                 "max_level": 29,
-                "species": "SPECIES_GLOOM"
+                "species": "SPECIES_TOEDSCOOL"
               },
               {
                 "min_level": 31,
                 "max_level": 31,
-                "species": "SPECIES_GLOOM"
+                "species": "SPECIES_TOEDSCRUEL"
               },
               {
                 "min_level": 29,
@@ -7439,12 +7439,12 @@
               {
                 "min_level": 44,
                 "max_level": 44,
-                "species": "SPECIES_GOLBAT"
+                "species": "SPECIES_NOIBAT"
               },
               {
                 "min_level": 44,
                 "max_level": 44,
-                "species": "SPECIES_SABLEYE"
+                "species": "SPECIES_KLANG"
               },
               {
                 "min_level": 44,
@@ -7459,22 +7459,22 @@
               {
                 "min_level": 46,
                 "max_level": 46,
-                "species": "SPECIES_GOLBAT"
+                "species": "SPECIES_PALOSSAND"
               },
               {
                 "min_level": 46,
                 "max_level": 46,
-                "species": "SPECIES_SABLEYE"
+                "species": "SPECIES_KLANG"
               },
               {
                 "min_level": 48,
                 "max_level": 48,
-                "species": "SPECIES_GOLBAT"
+                "species": "SPECIES_PALOSSAND"
               },
               {
                 "min_level": 48,
                 "max_level": 48,
-                "species": "SPECIES_SABLEYE"
+                "species": "SPECIES_KLANG"
               },
               {
                 "min_level": 46,
@@ -7489,7 +7489,7 @@
               {
                 "min_level": 48,
                 "max_level": 48,
-                "species": "SPECIES_LAIRON"
+                "species": "SPECIES_PALOSSAND"
               },
               {
                 "min_level": 48,
