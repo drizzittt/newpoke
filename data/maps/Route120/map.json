@@ -603,6 +603,32 @@
       "trainer_sight_or_berry_tree_id": "ITEM_REVIVE",
       "script": "Common_EventScript_FindItem",
       "flag": "FLAG_ITEM_ROUTE_120_REVIVE"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 9,
+      "y": 1,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "ITEM_ALTARIANITE",
+      "script": "Common_EventScript_FindItem",
+      "flag": "FLAG_ALTARIANITE"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 24,
+      "y": 22,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "ITEM_ABSOLITE",
+      "script": "Common_EventScript_FindItem",
+      "flag": "FLAG_ABSOLITE"
     }
   ],
   "warp_events": [
@@ -821,14 +847,6 @@
       "y": 23,
       "elevation": 0,
       "secret_base_id": "SECRET_BASE_SHRUB2_3"
-    },
-    {
-      "type": "hidden_item",
-      "x": 9,
-      "y": 1,
-      "elevation": 3,
-      "item": "ITEM_RARE_CANDY",
-      "flag": "FLAG_HIDDEN_ITEM_ROUTE_120_RARE_CANDY_1"
     },
     {
       "type": "hidden_item",

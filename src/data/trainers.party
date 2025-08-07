@@ -3931,15 +3931,15 @@ Music: Suspicious
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
+Scatterbug
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Silcoon
+Spewpa
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Beautifly
+Vivillon
 Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3952,15 +3952,15 @@ Music: Suspicious
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
+Scatterbug
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Cascoon
+Spewpa
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Dustox
+Vespiquen
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3994,11 +3994,11 @@ Music: Suspicious
 Double Battle: No
 AI: Check Bad Move
 
-Dustox
+Vespiquen
 Level: 18
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Beautifly
+Vivillon
 Level: 18
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -4057,7 +4057,7 @@ Surskit
 Level: 38
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Wurmple
+Scatterbug
 Level: 38
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
@@ -4082,7 +4082,7 @@ Surskit
 Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-Dustox
+Vespiquen
 Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -4094,7 +4094,7 @@ Masquerain @ Silver Powder
 Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-Beautifly
+Vivillon
 Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -5343,7 +5343,7 @@ Shroomish
 Level: 18
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Beautifly
+Vivillon
 Level: 18
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -8897,11 +8897,11 @@ Music: Twins
 Double Battle: Yes
 AI: Check Bad Move
 
-Beautifly
+Vivillon
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Dustox
+Vespiquen
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9551,7 +9551,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Charm
 - Feint Attack
 
-Roselia
+Roserade
 Level: 46
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
@@ -9567,7 +9567,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Gardevoir @ Gardevoirite
 Level: 47
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -11331,11 +11331,11 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -11348,19 +11348,19 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wurmple
+Scatterbug
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -11373,7 +11373,7 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
+Scatterbug
 Level: 10
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11467,7 +11467,7 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Dustox
+Vespiquen
 Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
@@ -11488,7 +11488,7 @@ Surskit
 Level: 33
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Dustox
+Vespiquen
 Level: 33
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
@@ -11513,7 +11513,7 @@ Ninjask
 Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-Dustox
+Vespiquen
 Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -12119,6 +12119,10 @@ Ralts
 Level: 18
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
+Roselia
+Level: 18
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
 === TRAINER_WALLY_VR_2 ===
 Name: WALLY
 Class: Rival
@@ -12145,7 +12149,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Charm
 - Feint Attack
 
-Roselia
+Roserade
 Level: 49
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
@@ -12161,7 +12165,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Gardevoir @ Gardevoirite
 Level: 50
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12195,7 +12199,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Charm
 - Feint Attack
 
-Roselia
+Roserade
 Level: 52
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
@@ -12211,7 +12215,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Gardevoir @ Gardevoirite
 Level: 53
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12245,7 +12249,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Charm
 - Feint Attack
 
-Roselia
+Roserade
 Level: 55
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
@@ -12261,7 +12265,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Gardevoir @ Gardevoirite
 Level: 56
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12295,7 +12299,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Charm
 - Feint Attack
 
-Roselia
+Roserade
 Level: 58
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
@@ -12311,7 +12315,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Tri Attack
 - Screech
 
-Gardevoir
+Gardevoir @ Gardevoirite
 Level: 59
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
@@ -12721,7 +12725,7 @@ Music: Girl
 Double Battle: Yes
 AI: Check Bad Move
 
-Dustox
+Vespiquen
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Gust
@@ -12729,7 +12733,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Toxic
 - Protect
 
-Beautifly
+Vivillon
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Gust
@@ -14101,11 +14105,11 @@ Music: Suspicious
 Double Battle: No
 AI: Check Bad Move
 
-Dustox
+Vespiquen
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Beautifly
+Vivillon
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
