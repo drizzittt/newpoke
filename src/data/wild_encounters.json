@@ -2584,14 +2584,14 @@
                 "species": "SPECIES_TORKOAL"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_GRIMER"
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_FUECOCO"
               },
               {
-                "min_level": 20,
-                "max_level": 20,
-                "species": "SPECIES_GRIMER"
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_FUECOCO"
               }
             ]
           }
@@ -12393,6 +12393,75 @@
                 "min_level": 5,
                 "max_level": 5,
                 "species": "SPECIES_SKARMORY"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_GRANITE_CAVE_B3F",
+          "base_label": "gGraniteCave_B3F",
+          "land_mons": {
+            "encounter_rate": 10,
+            "mons": [
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_NONE"
               }
             ]
           }
