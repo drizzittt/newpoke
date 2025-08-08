@@ -80,6 +80,7 @@
       "flag": "0"
     },
     {
+      "local_id": "LOCALID_GYM_GUIDE",
       "graphics_id": "OBJ_EVENT_GFX_MAN_2",
       "x": 15,
       "y": 21,
@@ -135,7 +136,26 @@
       "dest_warp_id": "2"
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+    {
+      "type": "trigger",
+      "x": 15,
+      "y": 23,
+      "elevation": 0,
+      "var": "VAR_MEGA_ITEM_STATE",
+      "var_value": "0",
+      "script": "FortreeCity_Gym_EventScript_MegaStone_Left"
+    },
+    {
+      "type": "trigger",
+      "x": 16,
+      "y": 23,
+      "elevation": 0,
+      "var": "VAR_MEGA_ITEM_STATE",
+      "var_value": "0",
+      "script": "FortreeCity_Gym_EventScript_MegaStone_Right"
+    }
+  ],
   "bg_events": [
     {
       "type": "sign",

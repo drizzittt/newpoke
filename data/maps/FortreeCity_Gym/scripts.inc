@@ -134,6 +134,100 @@ FortreeCity_Gym_EventScript_GymStatue::
 	releaseall
 	end
 
+FortreeCity_Gym_EventScript_Check_Defeated_Left::
+	goto_if_set FLAG_DEFEATED_FORTREE_GYM, FortreeCity_Gym_EventScript_MegaStone_Left
+	end
+
+FortreeCity_Gym_EventScript_Check_Defeated_Right::
+	goto_if_set FLAG_DEFEATED_FORTREE_GYM, FortreeCity_Gym_EventScript_MegaStone_Right
+	end
+
+FortreeCity_Gym_EventScript_MegaStone_Left::
+	lockall
+	applymovement LOCALID_GYM_GUIDE, FortreeCity_Gym_Movement_MegaStone_Left
+	call FortreeCity_Gym_EventScript_GiveMega
+	releaseall
+	end
+
+FortreeCity_Gym_EventScript_MegaStone_Right::
+	lockall
+	applymovement LOCALID_GYM_GUIDE, FortreeCity_Gym_Movement_MegaStone_Right
+	call FortreeCity_Gym_EventScript_GiveMega
+	releaseall
+	end
+
+FortreeCity_Gym_EventScript_GiveMega::
+	msgbox FortreeCity_Gym_Text_Give_Mega_Items, MSGBOX_DEFAULT
+	closemessage
+	bufferitemname STR_VAR_3, ITEM_MEGA_RING
+	playfanfare MUS_OBTAIN_ITEM
+	message FortreeCity_Gym_Text_Give_Mega_Stone_Recieved
+	giveitem ITEM_MEGA_RING
+	waitfanfare
+	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
+	setflag FLAG_RECEIVED_MEGA_RING
+	setvar VAR_MEGA_ITEM_STATE, 1
+	closemessage
+	switch VAR_STARTER_MON
+	case 0, FortreeCity_Gym_EventScript_GiveSceptile
+	case 1, FortreeCity_Gym_EventScript_GiveBlaziken
+	case 2, FortreeCity_Gym_EventScript_GiveSwampert
+	msgbox FortreeCity_Gym_Text_After_Mega, MSGBOX_DEFAULT
+	return
+
+FortreeCity_Gym_EventScript_GiveSceptile::
+	msgbox FortreeCity_Gym_Text_Give_Mega_Stone, MSGBOX_DEFAULT
+	bufferitemname STR_VAR_3, ITEM_SCEPTILITE
+	playfanfare MUS_OBTAIN_ITEM
+	message FortreeCity_Gym_Text_Give_Mega_Stone_Recieved
+	giveitem ITEM_MEGA_RING
+	waitfanfare
+	return
+
+FortreeCity_Gym_EventScript_GiveBlaziken::
+	msgbox FortreeCity_Gym_Text_Give_Mega_Stone, MSGBOX_DEFAULT
+	bufferitemname STR_VAR_3, ITEM_BLAZIKENITE
+	playfanfare MUS_OBTAIN_ITEM
+	message FortreeCity_Gym_Text_Give_Mega_Stone_Recieved
+	giveitem ITEM_MEGA_RING
+	waitfanfare
+	return
+
+FortreeCity_Gym_EventScript_GiveSwampert::
+	msgbox FortreeCity_Gym_Text_Give_Mega_Stone, MSGBOX_DEFAULT
+	bufferitemname STR_VAR_3, ITEM_SWAMPERTITE
+	playfanfare MUS_OBTAIN_ITEM
+	message FortreeCity_Gym_Text_Give_Mega_Stone_Recieved
+	giveitem ITEM_MEGA_RING
+	waitfanfare
+	return
+
+FortreeCity_Gym_Movement_MegaStone_Left:
+	walk_down
+	step_end
+
+FortreeCity_Gym_Movement_MegaStone_Right:
+	walk_right
+	walk_down
+	step_end
+
+FortreeCity_Gym_Text_Give_Mega_Items:
+	.string "Yo, you did it! Congrats!\n"
+	.string "As a reward for beating this\p"
+	.string "Gym, you get a Mega Ring!$"
+
+FortreeCity_Gym_Text_Give_Mega_Stone:
+	.string "And, as a personal gift,\n"
+	.string "here is the mega stone for your\p"
+	.string "starter Pokémon!$"
+
+FortreeCity_Gym_Text_Give_Mega_Stone_Recieved:
+	.string "{PLAYER} received {STR_VAR_3} from\n"
+	.string "the Gym Guide.$"
+
+FortreeCity_Gym_Text_After_Mega:
+	.string "Good luck! You'll need it.$"
+
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"

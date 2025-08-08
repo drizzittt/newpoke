@@ -1230,7 +1230,7 @@
 #define FLAG_ITEM_LEAF_STONE_PETALBURG_1F_2R                        0x498
 #define FLAG_MT_PYRE_3F_DUSK_STONE                                  0x499 // Unused Flag
 #define FLAG_RECIEVED_ARMORS                                        0x49A // Unused Flag
-#define FLAG_UNUSED_0x49B                                           0x49B // Unused Flag
+#define FLAG_RECEIVED_MEGA_RING                                     0x49B // Unused Flag
 #define FLAG_UNUSED_0x49C                                           0x49C // Unused Flag
 #define FLAG_UNUSED_0x49D                                           0x49D // Unused Flag
 #define FLAG_UNUSED_0x49E                                           0x49E // Unused Flag
