@@ -562,12 +562,12 @@
               {
                 "min_level": 7,
                 "max_level": 10,
-                "species": "SPECIES_MAGIKARP"
+                "species": "SPECIES_WIGLETT"
               },
               {
                 "min_level": 10,
                 "max_level": 30,
-                "species": "SPECIES_MAGIKARP"
+                "species": "SPECIES_WIGLETT"
               },
               {
                 "min_level": 10,
@@ -587,7 +587,7 @@
               {
                 "min_level": 30,
                 "max_level": 35,
-                "species": "SPECIES_MAGIKARP"
+                "species": "SPECIES_WUGTRIO"
               },
               {
                 "min_level": 20,
@@ -602,7 +602,7 @@
               {
                 "min_level": 40,
                 "max_level": 45,
-                "species": "SPECIES_MAGIKARP"
+                "species": "SPECIES_WUGTRIO"
               }
             ]
           }
@@ -1395,7 +1395,7 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_TAILLOW"
+                "species": "SPECIES_ROOKIDEE"
               },
               {
                 "min_level": 11,
@@ -1405,7 +1405,7 @@
               {
                 "min_level": 10,
                 "max_level": 10,
-                "species": "SPECIES_POOCHYENA"
+                "species": "SPECIES_ROOKIDEE"
               },
               {
                 "min_level": 11,
