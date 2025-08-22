@@ -291,11 +291,11 @@ Music: Suspicious
 Double Battle: No
 AI: Check Bad Move
 
-Zangoose
+SPECIES_PERSIAN_ALOLA
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Seviper
+Toedscruel
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -769,11 +769,15 @@ Music: Female
 Double Battle: No
 AI: Check Bad Move
 
-Roselia
+Roserade
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gloom
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Toedscool
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1119,7 +1123,7 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Azurill
+Ducklett
 Level: 14
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -1162,7 +1166,7 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Marill
+Ducklett
 Level: 28
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -1179,11 +1183,11 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Marill
+Ducklett
 Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Marill
+Azumarill
 Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
@@ -1196,11 +1200,11 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Marill
+Ducklett
 Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Marill
+Azumarill
 Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
@@ -1213,7 +1217,7 @@ Music: Girl
 Double Battle: No
 AI: Check Bad Move
 
-Azumarill
+Swanna
 Level: 37
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -1814,7 +1818,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Fake Tears
 - Bite
 
-Roselia
+Roserade
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Mega Drain
@@ -2079,6 +2083,10 @@ Lunatone
 Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Lampent
+Level: 43
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_KINDRA ===
 Name: KINDRA
 Class: Hex Maniac
@@ -2140,6 +2148,10 @@ Double Battle: No
 AI: Check Bad Move
 
 Shuppet
+Level: 34
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
+Litwick
 Level: 34
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -4446,7 +4458,7 @@ Wobbuffet
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Natu
+Xatu
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -7322,7 +7334,7 @@ Wingull
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Staryu
+Starmie
 Level: 35
 IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
@@ -10430,6 +10442,10 @@ Sandslash
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Drilbur
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_LYDIA_2 ===
 Name: LYDIA
 Class: Pkmn Breeder
@@ -10576,6 +10592,10 @@ Breloom
 Level: 29
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
+Roserade
+Level: 29
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
 === TRAINER_LORENZO ===
 Name: LORENZO
 Class: Pkmn Ranger
@@ -10623,8 +10643,12 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
 Breloom
-Level: 33
+Level: 32
 IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
+
+Roserade
+Level: 33
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JACKSON_3 ===
 Name: JACKSON
@@ -10640,6 +10664,10 @@ Breloom
 Level: 36
 IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
+Roserade
+Level: 35
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
 === TRAINER_JACKSON_4 ===
 Name: JACKSON
 Class: Pkmn Ranger
@@ -10653,6 +10681,10 @@ AI: Check Bad Move / Try To Faint / Force Setup First Turn
 Breloom
 Level: 39
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+
+Roserade
+Level: 40
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JACKSON_5 ===
 Name: JACKSON
@@ -10671,6 +10703,10 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 Breloom
 Level: 41
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+
+Roserade
+Level: 42
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CATHERINE_1 ===
 Name: CATHERINE
@@ -10700,8 +10736,8 @@ Items: Full Restore
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
-Lotad
-Level: 30
+Kirlia
+Level: 29
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Lombre
@@ -10722,11 +10758,11 @@ Items: Full Restore
 Double Battle: No
 AI: Basic Trainer
 
-Swablu
+Altaria
 Level: 40
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Roselia
+Roserade
 Level: 40
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11175,6 +11211,10 @@ Double Battle: No
 AI: Check Bad Move
 
 Natu
+Level: 38
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+SPECIES_RAICHU_ALOLA
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -13245,7 +13285,7 @@ Azumarill
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-Wingull
+Pelipper
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -13343,13 +13383,13 @@ Music: Swimmer
 Double Battle: Yes
 AI: Check Bad Move
 
-Goldeen
+SPECIES_BASCULIN_RED_STIPED
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 16 Spe
 
-Tentacool
+SPECIES_BASCULIN_BLUE_STIPED
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 16 Spe
 
 === TRAINER_CHRIS ===
 Name: CHRIS
@@ -14058,7 +14098,7 @@ Sandshrew
 Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
-Sandshrew
+Sandygast
 Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -14516,7 +14556,7 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Makuhita
+Hariyama
 Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -14528,7 +14568,7 @@ Tropius
 Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Zigzagoon
+Linoone
 Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -16487,7 +16527,7 @@ Sandshrew
 Level: 33
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
-Sandshrew
+Sandygast
 Level: 33
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
@@ -16504,11 +16544,11 @@ Nosepass
 Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Sandshrew
+Sandslash
 Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Sandshrew
+Sandygast
 Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
@@ -16521,15 +16561,15 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Nosepass
+Probopass
 Level: 37
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Sandshrew
+Sandslash
 Level: 37
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Sandshrew
+Sandygast
 Level: 37
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
@@ -16542,7 +16582,7 @@ Music: Hiker
 Double Battle: No
 AI: Check Bad Move
 
-Nosepass
+Probopass
 Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
@@ -16550,8 +16590,8 @@ Sandslash
 Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
-Sandslash
-Level: 39
+Palossand
+Level: 42
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CORY_2 ===
