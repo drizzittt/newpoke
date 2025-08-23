@@ -96,8 +96,6 @@ OldaleTown_Movement_EmployeeEast:
 	walk_up
 	walk_up
 	walk_up
-	walk_up
-	walk_up
 	walk_in_place_faster_down
 	step_end
 
@@ -109,14 +107,10 @@ OldaleTown_Movement_EmployeeSouth:
 	walk_up
 	walk_up
 	walk_up
-	walk_up
-	walk_up
 	walk_in_place_faster_down
 	step_end
 
 OldaleTown_Movement_EmployeeNorth:
-	walk_up
-	walk_up
 	walk_up
 	walk_up
 	walk_up
@@ -147,8 +141,6 @@ OldaleTown_Movement_PlayerEast:
 	walk_up
 	walk_up
 	walk_up
-	walk_up
-	walk_up
 	step_end
 
 OldaleTown_Movement_PlayerSouth:
@@ -159,13 +151,9 @@ OldaleTown_Movement_PlayerSouth:
 	walk_up
 	walk_up
 	walk_up
-	walk_up
-	walk_up
 	step_end
 
 OldaleTown_Movement_PlayerNorth:
-	walk_up
-	walk_up
 	walk_up
 	walk_up
 	walk_up

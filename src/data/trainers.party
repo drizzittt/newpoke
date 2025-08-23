@@ -419,7 +419,7 @@ Music: Aqua
 Double Battle: No
 AI: Check Bad Move
 
-SPECIES_BASCULIN_RED_STIPED
+SPECIES_BASCULIN_RED_STRIPED
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -1537,7 +1537,7 @@ Swanna
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-SPECIES_ARCANINIE_HISUI
+SPECIES_ARCANINE_HISUI
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -3066,7 +3066,7 @@ Wingull
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-SPECIES_BASCULIN_RED_STIPED
+SPECIES_BASCULIN_RED_STRIPED
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9528,7 +9528,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Flamethrower
 - Solar Beam
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Axe Kick
@@ -9927,7 +9927,7 @@ Azumarill
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -9982,7 +9982,7 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -10045,7 +10045,7 @@ Salandit
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -10104,7 +10104,7 @@ Azumarill
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -10159,7 +10159,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
@@ -12731,7 +12731,7 @@ Azumarill
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -12760,7 +12760,7 @@ Corviknight
 Level: 33
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -12830,7 +12830,7 @@ Azumarill
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -12859,7 +12859,7 @@ Corviknight
 Level: 33
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-SPECIES_LILIGANT_HISUI
+SPECIES_LILLIGANT_HISUI
 Level: 34
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
@@ -13383,11 +13383,11 @@ Music: Swimmer
 Double Battle: Yes
 AI: Check Bad Move
 
-SPECIES_BASCULIN_RED_STIPED
+SPECIES_BASCULIN_RED_STRIPED
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 16 Spe
 
-SPECIES_BASCULIN_BLUE_STIPED
+SPECIES_BASCULIN_BLUE_STRIPED
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 16 Spe
 
@@ -15417,7 +15417,7 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-SPECIES_ARCANINIE_HISUI
+SPECIES_ARCANINE_HISUI
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Helping Hand
