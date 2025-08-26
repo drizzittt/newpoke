@@ -28253,7 +28253,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 11234
-            .species = SPECIES_TORCHIC,
+            .species = SPECIES_COMBUSKEN,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11236
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),
@@ -28296,7 +28296,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 11251
-            .species = SPECIES_TREECKO,
+            .species = SPECIES_GROVYLE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11253
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),
@@ -28571,7 +28571,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 11358
-            .species = SPECIES_MUDKIP,
+            .species = SPECIES_MARSHTOMP,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11360
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),
@@ -28616,7 +28616,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 11375
-            .species = SPECIES_TREECKO,
+            .species = SPECIES_GROVYLE,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 11377
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),
@@ -36878,7 +36878,7 @@ F_TRAINER_FEMALE |
         {
             {
 #line 14643
-            .species = SPECIES_LOTAD,
+            .species = SPECIES_PETILIL,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14645
             .iv = TRAINER_PARTY_IVS(3, 3, 3, 3, 3, 3),
@@ -36889,7 +36889,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 14647
-            .species = SPECIES_TORCHIC,
+            .species = SPECIES_COMBUSKEN,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14649
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),
@@ -36923,7 +36923,7 @@ F_TRAINER_FEMALE |
         {
             {
 #line 14660
-            .species = SPECIES_TORKOAL,
+            .species = SPECIES_SALANDIT,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14662
             .iv = TRAINER_PARTY_IVS(3, 3, 3, 3, 3, 3),
@@ -36934,7 +36934,7 @@ F_TRAINER_FEMALE |
             },
             {
 #line 14664
-            .species = SPECIES_MUDKIP,
+            .species = SPECIES_MARSHTOMP,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 14666
             .iv = TRAINER_PARTY_IVS(6, 6, 6, 6, 6, 6),

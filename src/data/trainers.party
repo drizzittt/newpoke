@@ -11231,7 +11231,7 @@ Petilil
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Torchic
+Combusken
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11248,7 +11248,7 @@ Marill
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Treecko
+Grovyle
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11355,7 +11355,7 @@ Salandit
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Mudkip
+Marshtomp
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -11372,7 +11372,7 @@ Marill
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Treecko
+Grovyle
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -14640,11 +14640,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Lotad
+Petilil
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Torchic
+Combusken
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
@@ -14657,11 +14657,11 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torkoal
+Salandit
 Level: 15
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
-Mudkip
+Marshtomp
 Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
