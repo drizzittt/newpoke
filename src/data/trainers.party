@@ -4994,14 +4994,22 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Poison Sting
 - Low Kick
 - Sucker Punch
-- Bulk Up
+- Fake Out
 
 Meditite
-Level: 16
+Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Karate Chop
 - Light Screen
 - Confusion
+- Bulk Up
+
+Riolu
+Level: 18
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 24 Spe
+- Bullet Punch
+- Low Kick
+- Ice Punch
 - Bulk Up
 
 Makuhita @ Sitrus Berry
@@ -5072,13 +5080,13 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Numel
-Level: 26
+Camerupt
+Level: 28
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Overheat
-- Take Down
-- Magnitude
+- Earthquake
 - Sunny Day
+- Attract
 
 Salazzle
 Level: 33
@@ -5088,13 +5096,13 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Poison Gas
 - Sunny Day
 
-Camerupt
-Level: 28
+Armarouge
+Level: 30
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+- Psyshock
+- Mystical Fire
+- Will O Wisp
+- Calm Mind
 
 Torkoal @ White Herb
 Level: 33
@@ -5115,7 +5123,7 @@ Double Battle: No
 AI: Basic Trainer
 
 Spinda
-Level: 28
+Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Teeter Dance
 - Psybeam
@@ -5123,12 +5131,20 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Encore
 
 Linoone
-Level: 29
+Level: 31
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Slash
 - Belly Drum
 - Facade
 - Headbutt
+
+Farigiraf @ Sitrus Berry
+Level: 32
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Agility
+- Swift
+- Twin Beam
+- Nasty Plot
 
 Zoroark-Hisui
 Level: 32
@@ -11663,19 +11679,19 @@ Double Battle: No
 AI: Check Bad Move
 
 Scatterbug
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Scatterbug
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Scatterbug
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Scatterbug
-Level: 5
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSE ===
