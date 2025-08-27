@@ -407,8 +407,8 @@ Double Battle: No
 AI: Check Bad Move
 
 Carvanha
-Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 19
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_GRUNT_MUSEUM_2 ===
 Name: GRUNT
@@ -420,12 +420,13 @@ Double Battle: No
 AI: Check Bad Move
 
 SPECIES_BASCULIN_RED_STRIPED
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 18
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Aqua Jet
 
 Carvanha
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 18
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_1 ===
 Name: GRUNT
@@ -9300,15 +9301,15 @@ Double Battle: No
 AI: Check Bad Move
 
 Wingull
-Level: 13
+Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Machop
-Level: 13
+Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacool
-Level: 13
+Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHILLIP ===
@@ -14691,13 +14692,13 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Golem
-Level: 34
+Cradily @ Leftovers
+Level: 36
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Stealth Rock
 - Protect
-- Rollout
-- Magnitude
-- Explosion
+- Ancient Power
 
 Kabuto @ Sitrus Berry
 Level: 37
@@ -14707,15 +14708,15 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Rock Slide
 
-Onix
-Level: 37
+Minior
+Level: 38
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+- Charge Beam
+- Aerial Ace
+- Rock Polish
+- Power Gem
 
-Nosepass @ Sitrus Berry
+Probopass @ Sitrus Berry
 Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
@@ -14733,6 +14734,14 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
+Cradily @ Leftovers
+Level: 40
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Stealth Rock
+- Protect
+- Ancient Power
+
 Omanyte
 Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -14740,14 +14749,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Beam
 - Rock Slide
 - Surf
-
-Golem
-Level: 39
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
 
 Kabutops @ Sitrus Berry
 Level: 42
@@ -14757,13 +14758,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Rock Slide
 
-Onix
+Minior
 Level: 42
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+- Charge Beam
+- Aerial Ace
+- Rock Polish
+- Power Gem
 
 Nosepass @ Sitrus Berry
 Level: 44
@@ -14783,6 +14784,14 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
+Cradily @ Leftovers
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Stealth Rock
+- Protect
+- Ancient Power
+
 Omastar
 Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -14790,14 +14799,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ice Beam
 - Rock Slide
 - Surf
-
-Golem
-Level: 44
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Earthquake
-- Explosion
 
 Kabutops @ Sitrus Berry
 Level: 47
@@ -14807,13 +14808,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Rock Slide
 
-Onix
-Level: 47
+Minior
+Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+- Charge Beam
+- Aerial Ace
+- Rock Polish
+- Power Gem
 
 Nosepass @ Sitrus Berry
 Level: 49
@@ -14833,6 +14834,14 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
+Cradily @ Leftovers
+Level: 50
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Stealth Rock
+- Protect
+- Ancient Power
+
 Aerodactyl
 Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -14840,14 +14849,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Supersonic
 - Protect
-
-Golem
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Punch
-- Rollout
-- Earthquake
-- Explosion
 
 Omastar
 Level: 49
@@ -14873,7 +14874,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roar
 - Rock Slide
 
-Nosepass @ Sitrus Berry
+Probopass @ Sitrus Berry
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
@@ -14891,37 +14892,38 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Machamp @ Sitrus Berry
+Toxicroak @ Sitrus Berry
 Level: 35
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
 - Bulk Up
+- Drain Punch
+- Poison Jab
+- Fake Out
 
-Meditite
+Medicham @ Medichamite
 Level: 35
+Ability: Pure Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Light Screen
-- Reflect
-- Focus Punch
-
-Hitmontop
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pursuit
-- Counter
-- Protect
-- Triple Kick
+- Zen Headbutt
+- Close Combat
+- Ice Punch
+- Poison Jab
 
 Hariyama @ Sitrus Berry
 Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
-- Focus Punch
+- Drain Punch
 - Belly Drum
 - Earthquake
+
+Lucario @ Muscle Band
+Level: 39
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- Bone Rush
+- Swords Dance
+- Drain Punch
 
 === TRAINER_BRAWLY_3 ===
 Name: BRAWLY
@@ -14933,21 +14935,22 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Machamp @ Sitrus Berry
+Toxicroak @ Sitrus Berry
 Level: 40
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
 - Bulk Up
+- Drain Punch
+- Poison Jab
+- Fake Out
 
-Medicham
+Medicham @ Choice Scarf
 Level: 40
+Ability: Pure Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Light Screen
-- Reflect
-- Focus Punch
+- Zen Headbutt
+- Close Combat
+- Ice Punch
+- Poison Jab
 
 Hitmontop
 Level: 42
@@ -14961,9 +14964,17 @@ Hariyama @ Sitrus Berry
 Level: 44
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
-- Focus Punch
+- Drain Punch
 - Belly Drum
 - Earthquake
+
+Lucario @ Lucarionite
+Level: 45
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- Bone Rush
+- Swords Dance
+- Drain Punch
 
 === TRAINER_BRAWLY_4 ===
 Name: BRAWLY
@@ -14983,21 +14994,22 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Punch
 - Ice Punch
 
-Machamp @ Sitrus Berry
+Toxicroak @ Sitrus Berry
 Level: 45
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
 - Bulk Up
+- Drain Punch
+- Poison Jab
+- Fake Out
 
-Medicham
+Medicham @ Choice Scarf
 Level: 45
+Ability: Pure Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Psychic
+- Zen Headbutt
+- Close Combat
+- Ice Punch
+- Poison Jab
 
 Hitmontop
 Level: 47
@@ -15011,9 +15023,17 @@ Hariyama @ Sitrus Berry
 Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
-- Focus Punch
+- Drain Punch
 - Belly Drum
 - Earthquake
+
+Lucario @ Lucarionite
+Level: 50
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- Bone Rush
+- Swords Dance
+- Drain Punch
 
 === TRAINER_BRAWLY_5 ===
 Name: BRAWLY
@@ -15025,14 +15045,6 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Hitmonlee
-Level: 48
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Mega Kick
-- Focus Punch
-- Earthquake
-- Bulk Up
-
 Hitmonchan
 Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -15041,21 +15053,22 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Punch
 - Ice Punch
 
-Machamp @ Sitrus Berry
+Toxicroak @ Sitrus Berry
 Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Cross Chop
-- Rock Slide
-- Focus Punch
 - Bulk Up
+- Drain Punch
+- Poison Jab
+- Fake Out
 
-Medicham
+Medicham @ Choice Scarf
 Level: 50
+Ability: Pure Power
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Psychic
+- Zen Headbutt
+- Close Combat
+- Ice Punch
+- Poison Jab
 
 Hitmontop
 Level: 52
@@ -15069,9 +15082,17 @@ Hariyama @ Sitrus Berry
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
-- Focus Punch
+- Drain Punch
 - Belly Drum
 - Earthquake
+
+Lucario @ Lucarionite
+Level: 55
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- Bone Rush
+- Swords Dance
+- Drain Punch
 
 === TRAINER_WATTSON_2 ===
 Name: WATTSON
